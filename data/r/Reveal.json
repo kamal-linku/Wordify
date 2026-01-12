@@ -4,7 +4,15 @@
     "phonetic": "/rɪˈviːl/",
     "part_of_speech": ["verb"],
     "meanings": {
-      "verb": [{ "definition": "To make known", "example": "Reveal the truth." }]
-    }
+      "verb": [
+        {
+          "definition": "Make (previously unknown or secret information) known to others.",
+          "example": "The investigation revealed a pattern of corruption."
+        }
+      ]
+    },
+    "synonyms": ["disclose", "divulge", "uncover"],
+    "antonyms": ["conceal", "hide"],
+    "usage_examples": ["Reveal the truth."]
   }
 }

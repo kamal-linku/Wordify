@@ -1,21 +1,18 @@
 {
   "history": {
     "word": "history",
-    "phonetic": "/ˈhɪstəri/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈhɪs.tər.i/",
+    "part_of_speech": ["noun"],
     "meanings": {
       "noun": [
         {
-          "definition": "Study of past events",
-          "example": "She studies history."
-        }
-      ],
-      "verb": [
-        {
-          "definition": "To record past events",
-          "example": "The event was historied."
+          "definition": "The study of past events, particularly in human affairs.",
+          "example": "He's a professor of modern history."
         }
       ]
-    }
+    },
+    "synonyms": ["past", "annals", "chronicle"],
+    "antonyms": ["future"],
+    "usage_examples": ["That's ancient history now."]
   }
 }

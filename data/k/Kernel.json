@@ -1,21 +1,22 @@
 {
   "kernel": {
     "word": "kernel",
-    "phonetic": "/ˈkɜːnəl/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈkɜː.nəl/",
+    "part_of_speech": ["noun"],
     "meanings": {
       "noun": [
         {
-          "definition": "The core or essential part",
-          "example": "A kernel of truth."
-        }
-      ],
-      "verb": [
+          "definition": "The softer, usually edible part of a nut, seed, or fruit stone contained within its hard shell.",
+          "example": "The kernel of a walnut."
+        },
         {
-          "definition": "To form into a kernel",
-          "example": "Ideas kernelled slowly."
+          "definition": "The central or most important part of something.",
+          "example": "This is the kernel of the argument."
         }
       ]
-    }
+    },
+    "synonyms": ["core", "essence", "seed"],
+    "antonyms": ["shell", "exterior"],
+    "usage_examples": ["There is a kernel of truth in what she says."]
   }
 }

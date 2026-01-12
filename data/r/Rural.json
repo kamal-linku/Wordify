@@ -1,11 +1,18 @@
 {
   "rural": {
     "word": "rural",
-    "phonetic": "/ˈrʊərəl/",
-    "part_of_speech": ["adjective", "verb"],
+    "phonetic": "/ˈrʊə.rəl/",
+    "part_of_speech": ["adjective"],
     "meanings": {
-      "adjective": [{ "definition": "Related to countryside", "example": "Rural area." }],
-      "verb": [{ "definition": "To make rural", "example": "The land was ruralized." }]
-    }
+      "adjective": [
+        {
+          "definition": "In, relating to, or characteristic of the countryside rather than the town.",
+          "example": "They moved to a rural area to enjoy the peace."
+        }
+      ]
+    },
+    "synonyms": ["rustic", "country", "pastoral"],
+    "antonyms": ["urban", "city"],
+    "usage_examples": ["Rural development."]
   }
 }

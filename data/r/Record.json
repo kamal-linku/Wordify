@@ -1,11 +1,24 @@
 {
   "record": {
     "word": "record",
-    "phonetic": "/ˈrekɔːd/",
+    "phonetic": "/ˈrek.ɔːd/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
-      "noun": [{ "definition": "Stored information", "example": "A medical record." }],
-      "verb": [{ "definition": "To capture data", "example": "Record the meeting." }]
-    }
+      "noun": [
+        {
+          "definition": "A piece of evidence or information constituting an account of something that has occurred.",
+          "example": "Keep a record of your expenses."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "Set down in writing or some other permanent form for later reference.",
+          "example": "The incident was recorded by a security camera."
+        }
+      ]
+    },
+    "synonyms": ["register", "document", "log"],
+    "antonyms": [],
+    "usage_examples": ["Off the record."]
   }
 }

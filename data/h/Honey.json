@@ -1,21 +1,18 @@
 {
   "honey": {
     "word": "honey",
-    "phonetic": "/ˈhʌni/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈhʌn.i/",
+    "part_of_speech": ["noun"],
     "meanings": {
       "noun": [
         {
-          "definition": "A sweet substance made by bees",
-          "example": "Honey is natural."
-        }
-      ],
-      "verb": [
-        {
-          "definition": "To sweeten or flatter",
-          "example": "He honeyed his words."
+          "definition": "A sweet, sticky yellowish-brown fluid made by bees and other insects from nectar collected from flowers.",
+          "example": "I like honey on my toast."
         }
       ]
-    }
+    },
+    "synonyms": ["nectar", "sweetener"],
+    "antonyms": [],
+    "usage_examples": ["Honey is a natural preservative."]
   }
 }

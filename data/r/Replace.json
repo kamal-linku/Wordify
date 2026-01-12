@@ -4,7 +4,15 @@
     "phonetic": "/rɪˈpleɪs/",
     "part_of_speech": ["verb"],
     "meanings": {
-      "verb": [{ "definition": "To take the place of", "example": "Replace the battery." }]
-    }
+      "verb": [
+        {
+          "definition": "Take the place of.",
+          "example": "Computers have largely replaced typewriters."
+        }
+      ]
+    },
+    "synonyms": ["substitute", "supplant", "exchange"],
+    "antonyms": ["keep"],
+    "usage_examples": ["Replace the lid."]
   }
 }

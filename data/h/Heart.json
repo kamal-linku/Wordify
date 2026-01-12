@@ -1,21 +1,27 @@
 {
   "heart": {
     "word": "heart",
-    "phonetic": "/hɑːt/",
+    "phonetic": "/hɑːrt/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
       "noun": [
         {
           "definition": "The organ that pumps blood",
-          "example": "His heart is strong."
+          "example": "The heart beats constantly."
         }
       ],
       "verb": [
         {
-          "definition": "To love deeply",
-          "example": "She hearted the idea."
+          "definition": "To like or love deeply",
+          "example": "She hearts the city."
         }
-      ]
-    }
+      ],
+      "adjective": []
+    },
+    "synonyms": ["core"],
+    "antonyms": [],
+    "usage_examples": [
+      "Follow your heart."
+    ]
   }
 }

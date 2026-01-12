@@ -1,11 +1,24 @@
 {
   "royal": {
     "word": "royal",
-    "phonetic": "/ˈrɔɪəl/",
-    "part_of_speech": ["adjective", "verb"],
+    "phonetic": "/ˈrɔɪ.əl/",
+    "part_of_speech": ["adjective", "noun"],
     "meanings": {
-      "adjective": [{ "definition": "Related to a king or queen", "example": "Royal family." }],
-      "verb": [{ "definition": "To honor royally", "example": "They royaled the guest." }]
-    }
+      "adjective": [
+        {
+          "definition": "Having the status of a king or queen or a member of their family.",
+          "example": "The royal family lives in the palace."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "A member of a royal family.",
+          "example": "The royals were out in force for the parade."
+        }
+      ]
+    },
+    "synonyms": ["regal", "kingly", "majestic"],
+    "antonyms": ["common"],
+    "usage_examples": ["A royal pain."]
   }
 }

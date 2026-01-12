@@ -6,16 +6,19 @@
     "meanings": {
       "noun": [
         {
-          "definition": "A sharp cutting tool",
-          "example": "The knife is sharp."
+          "definition": "An instrument composed of a blade fixed into a handle, used for cutting or as a weapon.",
+          "example": "Pass me the butter knife, please."
         }
       ],
       "verb": [
         {
-          "definition": "To cut or stab with a knife",
-          "example": "He knifed the fruit."
+          "definition": "To stab with a knife.",
+          "example": "The victim had been knifed in the back."
         }
       ]
-    }
+    },
+    "synonyms": ["blade", "dagger", "cutter"],
+    "antonyms": [],
+    "usage_examples": ["He is living on a knife-edge."]
   }
 }

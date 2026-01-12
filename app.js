@@ -40,9 +40,20 @@ function searchWord() {
   const wordPath = `./data/${foundLetter}/${input}.json`;
 
   fetch(wordPath)
-    .then(response => response.json())
+    .then(response => {
+      if (!response.ok) {
+        throw new Error("File not found");
+      }
+      return response.json();
+    })
     .then(data => {
-      displayWord(data[input]);
+      // Handle case sensitivity: input is lowercase, but JSON key might be capitalized
+      const key = Object.keys(data).find(k => k.toLowerCase() === input);
+      if (key) {
+        displayWord(data[key]);
+      } else {
+        throw new Error("Word data missing in file");
+      }
     })
     .catch(error => {
       console.error(error);

@@ -1,21 +1,22 @@
 {
   "kingdom": {
     "word": "kingdom",
-    "phonetic": "/ˈkɪŋdəm/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈkɪŋ.dəm/",
+    "part_of_speech": ["noun"],
     "meanings": {
       "noun": [
         {
-          "definition": "A country ruled by a king or queen",
-          "example": "The kingdom expanded."
-        }
-      ],
-      "verb": [
+          "definition": "A country, state, or territory ruled by a king or queen.",
+          "example": "The United Kingdom."
+        },
         {
-          "definition": "To rule or dominate",
-          "example": "He kingdomed over his territory."
+          "definition": "The highest taxonomic group into which organisms are grouped.",
+          "example": "The animal kingdom."
         }
       ]
-    }
+    },
+    "synonyms": ["realm", "monarchy", "domain"],
+    "antonyms": [],
+    "usage_examples": ["Thy kingdom come."]
   }
 }

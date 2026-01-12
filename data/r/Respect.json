@@ -4,8 +4,21 @@
     "phonetic": "/rɪˈspekt/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
-      "noun": [{ "definition": "High regard", "example": "Earn respect." }],
-      "verb": [{ "definition": "To admire", "example": "Respect others." }]
-    }
+      "noun": [
+        {
+          "definition": "A feeling of deep admiration for someone elicited by their abilities or qualities.",
+          "example": "I have deep respect for my teachers."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "Admire (someone or something) deeply, as a result of their abilities, qualities, or achievements.",
+          "example": "She is respected for her honesty."
+        }
+      ]
+    },
+    "synonyms": ["esteem", "honor", "regard"],
+    "antonyms": ["disrespect", "contempt"],
+    "usage_examples": ["Show some respect."]
   }
 }

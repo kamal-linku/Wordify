@@ -6,16 +6,19 @@
     "meanings": {
       "noun": [
         {
-          "definition": "A feeling of expectation or desire",
-          "example": "There is hope for success."
+          "definition": "A feeling of expectation and desire for a certain thing to happen.",
+          "example": "He's full of hope for the future."
         }
       ],
       "verb": [
         {
-          "definition": "To want something to happen",
-          "example": "I hope you succeed."
+          "definition": "To want something to happen or be the case.",
+          "example": "I hope you have a good time."
         }
       ]
-    }
+    },
+    "synonyms": ["aspiration", "desire", "wish"],
+    "antonyms": ["despair", "pessimism"],
+    "usage_examples": ["Never give up hope."]
   }
 }

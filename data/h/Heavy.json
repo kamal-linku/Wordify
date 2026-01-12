@@ -1,21 +1,27 @@
 {
   "heavy": {
     "word": "heavy",
-    "phonetic": "/ˈhevi/",
-    "part_of_speech": ["adjective", "verb"],
+    "phonetic": "/ˈhɛvi/",
+    "part_of_speech": ["adjective", "noun"],
     "meanings": {
+      "noun": [
+        {
+          "definition": "A serious or important person",
+          "example": "He is a political heavy."
+        }
+      ],
+      "verb": [],
       "adjective": [
         {
           "definition": "Of great weight",
-          "example": "The bag is heavy."
-        }
-      ],
-      "verb": [
-        {
-          "definition": "To make heavier",
-          "example": "Rain heavied the soil."
+          "example": "The box is heavy."
         }
       ]
-    }
+    },
+    "synonyms": ["weighty"],
+    "antonyms": ["light"],
+    "usage_examples": [
+      "Heavy rain fell."
+    ]
   }
 }

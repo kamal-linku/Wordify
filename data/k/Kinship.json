@@ -1,15 +1,18 @@
 {
   "kinship": {
     "word": "kinship",
-    "phonetic": "/ˈkɪnʃɪp/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈkɪn.ʃɪp/",
+    "part_of_speech": ["noun"],
     "meanings": {
-      "verb": [
+      "noun": [
         {
-          "definition": "To establish a family connection",
-          "example": "They kinshiped closely."
+          "definition": "Blood relationship; a sharing of characteristics or origins.",
+          "example": "They felt a strong kinship with their neighbors."
         }
       ]
-    }
+    },
+    "synonyms": ["affinity", "family", "lineage"],
+    "antonyms": ["estrangement"],
+    "usage_examples": ["The kinship between the two languages is clear."]
   }
 }

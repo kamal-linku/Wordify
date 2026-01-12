@@ -1,11 +1,22 @@
 {
   "rigid": {
     "word": "rigid",
-    "phonetic": "/ˈrɪdʒɪd/",
-    "part_of_speech": ["adjective", "verb"],
+    "phonetic": "/ˈrɪdʒ.ɪd/",
+    "part_of_speech": ["adjective"],
     "meanings": {
-      "adjective": [{ "definition": "Stiff or inflexible", "example": "Rigid rules." }],
-      "verb": [{ "definition": "To make stiff", "example": "The metal rigidized." }]
-    }
+      "adjective": [
+        {
+          "definition": "Unable to bend or be forced out of shape; not flexible.",
+          "example": "A rigid plastic container."
+        },
+        {
+          "definition": "Not able to be changed or adapted.",
+          "example": "The company has very rigid rules."
+        }
+      ]
+    },
+    "synonyms": ["stiff", "firm", "inflexible"],
+    "antonyms": ["flexible", "lenient"],
+    "usage_examples": ["Rigid discipline."]
   }
 }

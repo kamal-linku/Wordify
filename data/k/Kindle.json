@@ -1,15 +1,22 @@
 {
   "kindle": {
     "word": "kindle",
-    "phonetic": "/ˈkɪndl/",
+    "phonetic": "/ˈkɪn.dəl/",
     "part_of_speech": ["verb"],
     "meanings": {
       "verb": [
         {
-          "definition": "To ignite or inspire",
-          "example": "The speech kindled hope."
+          "definition": "To light or set on fire.",
+          "example": "We kindled a small fire with dry twigs."
+        },
+        {
+          "definition": "To arouse or inspire (an emotion or feeling).",
+          "example": "The teacher's speech kindled a love of science in her students."
         }
       ]
-    }
+    },
+    "synonyms": ["ignite", "arouse", "inspire"],
+    "antonyms": ["extinguish", "quench"],
+    "usage_examples": ["His interest in art was kindled by his father."]
   }
 }

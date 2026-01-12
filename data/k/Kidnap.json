@@ -1,15 +1,24 @@
 {
   "kidnap": {
     "word": "kidnap",
-    "phonetic": "/ˈkɪdnæp/",
-    "part_of_speech": ["verb"],
+    "phonetic": "/ˈkɪd.næp/",
+    "part_of_speech": ["noun", "verb"],
     "meanings": {
+      "noun": [
+        {
+          "definition": "An instance of abducting someone and holding them captive.",
+          "example": "The kidnap was planned for weeks."
+        }
+      ],
       "verb": [
         {
-          "definition": "To abduct someone illegally",
-          "example": "The child was kidnapped."
+          "definition": "To take someone away illegally by force, typically to demand a ransom.",
+          "example": "The millionaire's son was kidnapped."
         }
       ]
-    }
+    },
+    "synonyms": ["abduct", "seize", "capture"],
+    "antonyms": ["release", "free"],
+    "usage_examples": ["A witness saw the men kidnap the victim."]
   }
 }

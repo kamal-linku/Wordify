@@ -6,16 +6,19 @@
     "meanings": {
       "noun": [
         {
-          "definition": "A light frame flown in the wind",
-          "example": "The kite soared."
+          "definition": "A light frame covered with paper or cloth, flown in the wind at the end of a long string.",
+          "example": "The children were flying their kites in the park."
         }
       ],
       "verb": [
         {
-          "definition": "To fly a kite",
-          "example": "Children kited in the park."
+          "definition": "To move quickly and lightly.",
+          "example": "Small birds kited across the sky."
         }
       ]
-    }
+    },
+    "synonyms": ["glider"],
+    "antonyms": [],
+    "usage_examples": ["He's as high as a kite."]
   }
 }

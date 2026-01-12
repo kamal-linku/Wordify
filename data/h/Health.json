@@ -1,21 +1,22 @@
 {
   "health": {
     "word": "health",
-    "phonetic": "/helθ/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/hɛlθ/",
+    "part_of_speech": ["noun"],
     "meanings": {
       "noun": [
         {
-          "definition": "Physical and mental well-being",
-          "example": "Health is important."
+          "definition": "The state of being free from illness",
+          "example": "Good health is valuable."
         }
       ],
-      "verb": [
-        {
-          "definition": "To improve well-being",
-          "example": "Exercise healths the body."
-        }
-      ]
-    }
+      "verb": [],
+      "adjective": []
+    },
+    "synonyms": ["wellness"],
+    "antonyms": ["illness"],
+    "usage_examples": [
+      "Exercise improves health."
+    ]
   }
 }

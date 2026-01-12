@@ -1,15 +1,22 @@
 {
   "keystone": {
     "word": "keystone",
-    "phonetic": "/ˈkiːstəʊn/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈkiː.stəʊn/",
+    "part_of_speech": ["noun"],
     "meanings": {
-      "verb": [
+      "noun": [
         {
-          "definition": "To serve as a central support",
-          "example": "Trust keystones society."
+          "definition": "A central stone at the summit of an arch, locking the whole together.",
+          "example": "The keystone holds the entire archway in place."
+        },
+        {
+          "definition": "The central principle or part of a policy or system on which all else depends.",
+          "example": "Free speech is the keystone of democracy."
         }
       ]
-    }
+    },
+    "synonyms": ["foundation", "basis", "cornerstone"],
+    "antonyms": [],
+    "usage_examples": ["Education is the keystone of the nation's future."]
   }
 }

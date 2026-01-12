@@ -1,11 +1,18 @@
 {
   "region": {
     "word": "region",
-    "phonetic": "/ˈriːdʒən/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈriː.dʒən/",
+    "part_of_speech": ["noun"],
     "meanings": {
-      "noun": [{ "definition": "A specific area", "example": "This region is fertile." }],
-      "verb": [{ "definition": "To divide into regions", "example": "The land was regioned." }]
-    }
+      "noun": [
+        {
+          "definition": "An area, especially part of a country or the world having definable characteristics.",
+          "example": "The polar regions are melting."
+        }
+      ]
+    },
+    "synonyms": ["area", "district", "zone"],
+    "antonyms": [],
+    "usage_examples": ["In the region of 10 percent."]
   }
 }

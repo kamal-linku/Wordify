@@ -1,21 +1,28 @@
 {
   "hammer": {
     "word": "hammer",
-    "phonetic": "/ˈhæmə/",
+    "phonetic": "/ˈhæmər/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
       "noun": [
         {
-          "definition": "A tool for hitting nails",
-          "example": "Use a hammer."
+          "definition": "A tool with a heavy metal head used for pounding",
+          "example": "He hit the nail with a hammer."
         }
       ],
       "verb": [
         {
-          "definition": "To hit repeatedly",
-          "example": "He hammered the nail."
+          "definition": "To strike repeatedly",
+          "example": "The rain hammered the roof."
         }
-      ]
-    }
+      ],
+      "adjective": []
+    },
+    "synonyms": ["mallet"],
+    "antonyms": [],
+    "usage_examples": [
+      "Use a hammer carefully.",
+      "Critics hammered the movie."
+    ]
   }
 }

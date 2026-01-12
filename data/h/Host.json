@@ -6,16 +6,19 @@
     "meanings": {
       "noun": [
         {
-          "definition": "A person who receives guests",
-          "example": "She is the host."
+          "definition": "A person who receives or entertains other people as guests.",
+          "example": "Our host made us feel very welcome."
         }
       ],
       "verb": [
         {
-          "definition": "To organize or receive",
-          "example": "They hosted the event."
+          "definition": "To act as host at (an event) or for (a person).",
+          "example": "The city is hosting the Olympic Games."
         }
       ]
-    }
+    },
+    "synonyms": ["presenter", "emcee", "provider"],
+    "antonyms": ["guest"],
+    "usage_examples": ["The virus needs a host to survive."]
   }
 }

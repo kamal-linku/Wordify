@@ -2,20 +2,21 @@
   "harmony": {
     "word": "harmony",
     "phonetic": "/ˈhɑːməni/",
-    "part_of_speech": ["noun", "verb"],
+    "part_of_speech": ["noun"],
     "meanings": {
       "noun": [
         {
-          "definition": "Peaceful agreement",
-          "example": "They live in harmony."
+          "definition": "A pleasing combination or arrangement",
+          "example": "They lived in harmony."
         }
       ],
-      "verb": [
-        {
-          "definition": "To be in agreement",
-          "example": "Their ideas harmonied."
-        }
-      ]
-    }
+      "verb": [],
+      "adjective": []
+    },
+    "synonyms": ["balance", "peace"],
+    "antonyms": ["conflict"],
+    "usage_examples": [
+      "Music creates harmony."
+    ]
   }
 }

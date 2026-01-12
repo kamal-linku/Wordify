@@ -2,20 +2,16 @@
   "hill": {
     "word": "hill",
     "phonetic": "/hɪl/",
-    "part_of_speech": ["noun", "verb"],
+    "part_of_speech": ["noun"],
     "meanings": {
       "noun": [
-        {
-          "definition": "A raised area of land",
-          "example": "They climbed the hill."
-        }
+        { "definition": "A raised area of land", "example": "They climbed the hill." }
       ],
-      "verb": [
-        {
-          "definition": "To form a mound",
-          "example": "Soil was hilled around plants."
-        }
-      ]
-    }
+      "verb": [],
+      "adjective": []
+    },
+    "synonyms": ["mound"],
+    "antonyms": ["valley"],
+    "usage_examples": ["The house is on a hill."]
   }
 }

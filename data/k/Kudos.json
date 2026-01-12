@@ -1,15 +1,18 @@
 {
   "kudos": {
     "word": "kudos",
-    "phonetic": "/ˈkjuːdɒs/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈkjuː.dɒs/",
+    "part_of_speech": ["noun"],
     "meanings": {
-      "verb": [
+      "noun": [
         {
-          "definition": "To praise or give credit",
-          "example": "She was kudosed by her peers."
+          "definition": "Praise and honor received for an achievement.",
+          "example": "Kudos to everyone who helped organize the event."
         }
       ]
-    }
+    },
+    "synonyms": ["praise", "acclaim", "glory"],
+    "antonyms": ["criticism", "dishonor"],
+    "usage_examples": ["She gained much kudos for her work."]
   }
 }

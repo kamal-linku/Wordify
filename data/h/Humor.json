@@ -1,21 +1,24 @@
 {
   "humor": {
     "word": "humor",
-    "phonetic": "/ˈhjuːmə/",
+    "phonetic": "/ˈhjuː.mər/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
       "noun": [
         {
-          "definition": "The quality of being funny",
-          "example": "He has good humor."
+          "definition": "The quality of being amusing or comic, especially as expressed in literature or speech.",
+          "example": "His stories are full of humor."
         }
       ],
       "verb": [
         {
-          "definition": "To comply with",
-          "example": "Please humor me."
+          "definition": "To comply with the wishes of someone in order to keep them content.",
+          "example": "She humored him to avoid an argument."
         }
       ]
-    }
+    },
+    "synonyms": ["wit", "comedy", "jocularity"],
+    "antonyms": ["seriousness", "solemnity"],
+    "usage_examples": ["A sense of humor is essential."]
   }
 }

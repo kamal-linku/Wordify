@@ -1,21 +1,18 @@
 {
   "highway": {
     "word": "highway",
-    "phonetic": "/ˈhaɪweɪ/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈhaɪ.weɪ/",
+    "part_of_speech": ["noun"],
     "meanings": {
       "noun": [
         {
-          "definition": "A main public road",
-          "example": "The highway is busy."
-        }
-      ],
-      "verb": [
-        {
-          "definition": "To transport via main roads",
-          "example": "Goods were highwayed."
+          "definition": "A main road, especially one connecting major towns or cities.",
+          "example": "We drove along the coastal highway."
         }
       ]
-    }
+    },
+    "synonyms": ["expressway", "motorway", "thoroughfare"],
+    "antonyms": ["alley", "byway"],
+    "usage_examples": ["The highway was jammed with traffic."]
   }
 }

@@ -1,21 +1,18 @@
 {
   "kitchen": {
     "word": "kitchen",
-    "phonetic": "/ˈkɪtʃɪn/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈkɪtʃ.ən/",
+    "part_of_speech": ["noun"],
     "meanings": {
       "noun": [
         {
-          "definition": "A room used for cooking",
-          "example": "The kitchen is clean."
-        }
-      ],
-      "verb": [
-        {
-          "definition": "To prepare food",
-          "example": "She kitchened all evening."
+          "definition": "A room or area where food is prepared and cooked.",
+          "example": "They spent the morning cleaning the kitchen."
         }
       ]
-    }
+    },
+    "synonyms": ["galley", "scullery"],
+    "antonyms": [],
+    "usage_examples": ["If you can't stand the heat, get out of the kitchen."]
   }
 }

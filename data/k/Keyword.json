@@ -1,16 +1,31 @@
 {
   "keyword": {
     "word": "keyword",
-    "phonetic": "/ˈkiːwɜːd/",
+    "phonetic": "/ˈkiː.wɜːd/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
+      "noun": [
+        {
+          "definition": "A word or concept of great significance.",
+          "example": "The keyword in the report is 'efficiency'."
+        },
+        {
+          "definition": "A word used in an information retrieval system to indicate the content of a document.",
+          "example": "To find the article, enter a few keywords into the search engine."
+        }
+      ],
       "verb": [
         {
-          "definition": "To assign keywords",
-          "example": "The article was keyworded."
+          "definition": "To set or provide with keywords.",
+          "example": "The website was keyworded to improve its search engine ranking."
         }
       ]
-    }
+    },
+    "synonyms": ["descriptor", "tag", "index word", "catchphrase"],
+    "antonyms": [],
+    "usage_examples": [
+      "Digital marketing relies heavily on choosing the right keywords.",
+      "Identify the keywords in the text to summarize it effectively."
+    ]
   }
 }
-

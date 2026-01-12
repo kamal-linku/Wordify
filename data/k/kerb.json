@@ -3,28 +3,25 @@
     "word": "kerb",
     "phonetic": "/kɜːb/",
     "part_of_speech": ["noun", "verb"],
-
     "meanings": {
       "noun": [
         {
-          "definition": "The raised edge between a road and a pavement",
-          "example": "The car stopped at the kerb."
+          "definition": "A stone or concrete edging to a pavement or raised path.",
+          "example": "The car's front wheel hit the kerb."
         }
       ],
       "verb": [
         {
-          "definition": "To restrain or control",
-          "example": "He tried to kerb his anger."
+          "definition": "To furnish with a kerb (rarely used in this sense; usually refers to the physical construction).",
+          "example": "The council decided to kerb the entire length of the new road."
         }
       ]
     },
-
-    "synonyms": ["curb"],
-    "antonyms": ["encourage"],
-
+    "synonyms": ["curb", "edge", "border", "rim"],
+    "antonyms": [],
     "usage_examples": [
-      "Park the bike near the kerb.",
-      "She must kerb unnecessary expenses."
+      "She stepped off the kerb into the street.",
+      "The cyclist swerved to avoid hitting the high kerb."
     ]
   }
 }

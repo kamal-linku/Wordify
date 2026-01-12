@@ -4,12 +4,21 @@
     "phonetic": "/nɒt/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
+      "noun": [
+        {
+          "definition": "A fastening made by tying a piece of string, rope, or something similar.",
+          "example": "Tie a double knot so it doesn't come undone."
+        }
+      ],
       "verb": [
         {
-          "definition": "To tie into a knot",
-          "example": "Knot the rope tightly."
+          "definition": "To fasten with a knot.",
+          "example": "He knotted his tie."
         }
       ]
-    }
+    },
+    "synonyms": ["tangle", "bond", "loop"],
+    "antonyms": ["untie"],
+    "usage_examples": ["My stomach was in knots."]
   }
 }

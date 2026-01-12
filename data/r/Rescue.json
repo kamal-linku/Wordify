@@ -1,10 +1,24 @@
 {
   "rescue": {
     "word": "rescue",
-    "phonetic": "/ˈreskjuː/",
+    "phonetic": "/ˈres.kjuː/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
-      "verb": [{ "definition": "To save from danger", "example": "They rescued the child." }]
-    }
+      "noun": [
+        {
+          "definition": "An act of saving or being saved from danger or difficulty.",
+          "example": "The rescue mission was a success."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "Save (someone) from a dangerous or distressing situation.",
+          "example": "Firemen rescued the cat from the tree."
+        }
+      ]
+    },
+    "synonyms": ["save", "deliver", "liberate"],
+    "antonyms": ["abandon", "endanger"],
+    "usage_examples": ["Rescue dog."]
   }
 }

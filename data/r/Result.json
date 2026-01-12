@@ -4,8 +4,21 @@
     "phonetic": "/rɪˈzʌlt/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
-      "noun": [{ "definition": "An outcome", "example": "The result was good." }],
-      "verb": [{ "definition": "To occur as a consequence", "example": "It resulted in success." }]
-    }
+      "noun": [
+        {
+          "definition": "A thing that is caused or produced by something else; a consequence.",
+          "example": "The accident was the result of carelessness."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "Occur or follow as a consequence.",
+          "example": "Stress can result in high blood pressure."
+        }
+      ]
+    },
+    "synonyms": ["outcome", "consequence", "effect"],
+    "antonyms": ["cause"],
+    "usage_examples": ["Exam results."]
   }
 }

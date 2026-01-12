@@ -1,11 +1,22 @@
 {
   "rare": {
     "word": "rare",
-    "phonetic": "/reə/",
-    "part_of_speech": ["adjective", "verb"],
+    "phonetic": "/reər/",
+    "part_of_speech": ["adjective"],
     "meanings": {
-      "adjective": [{ "definition": "Uncommon or infrequent", "example": "A rare species." }],
-      "verb": [{ "definition": "To become rare", "example": "Such skills are raring." }]
-    }
+      "adjective": [
+        {
+          "definition": "Not occurring very often.",
+          "example": "It is rare to find such honesty these days."
+        },
+        {
+          "definition": "(of meat) cooked for only a short time so that the inside is still red.",
+          "example": "I'd like my steak rare, please."
+        }
+      ]
+    },
+    "synonyms": ["uncommon", "scarce", "infrequent"],
+    "antonyms": ["common", "frequent"],
+    "usage_examples": ["A rare stamp collection."]
   }
 }

@@ -1,11 +1,18 @@
 {
   "rhythm": {
     "word": "rhythm",
-    "phonetic": "/ˈrɪðəm/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈrɪð.əm/",
+    "part_of_speech": ["noun"],
     "meanings": {
-      "noun": [{ "definition": "A repeated pattern of sound", "example": "Music rhythm." }],
-      "verb": [{ "definition": "To move rhythmically", "example": "Waves rhythmed softly." }]
-    }
+      "noun": [
+        {
+          "definition": "A strong, regular, repeated pattern of movement or sound.",
+          "example": "The rhythm of the drums was hypnotic."
+        }
+      ]
+    },
+    "synonyms": ["beat", "tempo", "pulse"],
+    "antonyms": [],
+    "usage_examples": ["Circadian rhythm."]
   }
 }

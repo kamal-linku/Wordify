@@ -4,12 +4,25 @@
     "phonetic": "/naɪt/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
+      "noun": [
+        {
+          "definition": "A man who served his sovereign or lord as a mounted soldier in armor.",
+          "example": "A knight in shining armor."
+        },
+        {
+          "definition": "A chess piece, typically resembling a horse's head.",
+          "example": "He moved his knight to take her bishop."
+        }
+      ],
       "verb": [
         {
-          "definition": "To honor with knighthood",
-          "example": "The king knighted him."
+          "definition": "To invest someone with the title of knight.",
+          "example": "He was knighted by the Queen for his services to charity."
         }
       ]
-    }
+    },
+    "synonyms": ["cavalier", "champion"],
+    "antonyms": [],
+    "usage_examples": ["The knight swore an oath of loyalty."]
   }
 }

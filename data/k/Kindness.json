@@ -1,21 +1,18 @@
 {
   "kindness": {
     "word": "kindness",
-    "phonetic": "/ˈkaɪndnəs/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈkaɪnd.nəs/",
+    "part_of_speech": ["noun"],
     "meanings": {
       "noun": [
         {
-          "definition": "The quality of being friendly and considerate",
-          "example": "Her kindness touched everyone."
-        }
-      ],
-      "verb": [
-        {
-          "definition": "To show kindness",
-          "example": "He kindnessed the child."
+          "definition": "The quality of being friendly, generous, and considerate.",
+          "example": "She was touched by the kindness of strangers."
         }
       ]
-    }
+    },
+    "synonyms": ["benevolence", "gentleness", "charity"],
+    "antonyms": ["cruelty", "meanness", "harshness"],
+    "usage_examples": ["Kill them with kindness."]
   }
 }

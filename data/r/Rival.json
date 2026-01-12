@@ -1,11 +1,30 @@
 {
   "rival": {
     "word": "rival",
-    "phonetic": "/ˈraɪvəl/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈraɪ.vəl/",
+    "part_of_speech": ["noun", "verb", "adjective"],
     "meanings": {
-      "noun": [{ "definition": "A competitor", "example": "Business rivals." }],
-      "verb": [{ "definition": "To compete with", "example": "Teams rival each other." }]
-    }
+      "noun": [
+        {
+          "definition": "A person or thing competing with another for the same objective or for superiority.",
+          "example": "The two companies are bitter rivals."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "Be or seem to be equal or comparable to.",
+          "example": "The beauty of the landscape rivals that of the Swiss Alps."
+        }
+      ],
+      "adjective": [
+        {
+          "definition": "Competing.",
+          "example": "The rival gangs fought for control."
+        }
+      ]
+    },
+    "synonyms": ["competitor", "opponent", "adversary"],
+    "antonyms": ["ally", "friend"],
+    "usage_examples": ["Without a rival."]
   }
 }

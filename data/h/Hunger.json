@@ -1,21 +1,24 @@
 {
   "hunger": {
     "word": "hunger",
-    "phonetic": "/ˈhʌŋɡə/",
+    "phonetic": "/ˈhʌŋ.ɡər/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
       "noun": [
         {
-          "definition": "A need for food",
-          "example": "Hunger is a global issue."
+          "definition": "A feeling of discomfort or weakness caused by lack of food, coupled with the desire to eat.",
+          "example": "They died from hunger."
         }
       ],
       "verb": [
         {
-          "definition": "To desire strongly",
-          "example": "She hungers for success."
+          "definition": "To have a strong desire or craving.",
+          "example": "He hungered for success."
         }
       ]
-    }
+    },
+    "synonyms": ["appetite", "starvation", "longing"],
+    "antonyms": ["fullness", "satiety"],
+    "usage_examples": ["Hunger is the best sauce."]
   }
 }

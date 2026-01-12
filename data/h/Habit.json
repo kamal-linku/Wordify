@@ -6,16 +6,23 @@
     "meanings": {
       "noun": [
         {
-          "definition": "A regular behavior",
-          "example": "Reading is a good habit."
+          "definition": "A settled or regular tendency or practice",
+          "example": "Drinking water daily is a good habit."
         }
       ],
       "verb": [
         {
-          "definition": "To become accustomed",
-          "example": "He habit-ed waking early."
+          "definition": "To clothe or dress",
+          "example": "The monks were habited in robes."
         }
-      ]
-    }
+      ],
+      "adjective": []
+    },
+    "synonyms": ["custom", "routine"],
+    "antonyms": ["irregularity"],
+    "usage_examples": [
+      "She has a habit of reading before bed.",
+      "Good habits improve life."
+    ]
   }
 }

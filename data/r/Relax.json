@@ -4,7 +4,15 @@
     "phonetic": "/rɪˈlæks/",
     "part_of_speech": ["verb"],
     "meanings": {
-      "verb": [{ "definition": "To rest or become calm", "example": "Relax your mind." }]
-    }
+      "verb": [
+        {
+          "definition": "Make or become less tense or anxious.",
+          "example": "I'm going to have a bath and relax."
+        }
+      ]
+    },
+    "synonyms": ["unwind", "rest", "loosen"],
+    "antonyms": ["tense", "work"],
+    "usage_examples": ["Relax the rules."]
   }
 }

@@ -1,21 +1,18 @@
 {
   "kangaroo": {
     "word": "kangaroo",
-    "phonetic": "/ˌkæŋɡəˈruː/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˌkæŋ.ɡərˈuː/",
+    "part_of_speech": ["noun"],
     "meanings": {
       "noun": [
         {
-          "definition": "A large Australian mammal that moves by jumping",
-          "example": "The kangaroo hopped away."
-        }
-      ],
-      "verb": [
-        {
-          "definition": "To move by making sudden jumps",
-          "example": "The car kangarooed over the rough road."
+          "definition": "A large plant-eating marsupial with a long powerful tail and strong hind legs that enable it to leap.",
+          "example": "The kangaroo carried its joey in its pouch."
         }
       ]
-    }
+    },
+    "synonyms": ["marsupial", "wallaby"],
+    "antonyms": [],
+    "usage_examples": ["Kangaroos are indigenous to Australia."]
   }
 }

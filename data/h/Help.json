@@ -6,16 +6,19 @@
     "meanings": {
       "noun": [
         {
-          "definition": "Assistance or support",
-          "example": "Thank you for your help."
+          "definition": "The action of helping someone to do something.",
+          "example": "I need some help with my homework."
         }
       ],
       "verb": [
         {
-          "definition": "To assist someone",
-          "example": "He helped his friend."
+          "definition": "To make it easier for someone to do something by offering services or resources.",
+          "example": "Can you help me carry these boxes?"
         }
       ]
-    }
+    },
+    "synonyms": ["assist", "aid", "support"],
+    "antonyms": ["hinder", "obstruct"],
+    "usage_examples": ["Help yourself to some food."]
   }
 }

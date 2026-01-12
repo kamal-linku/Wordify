@@ -4,12 +4,21 @@
     "phonetic": "/nɒk/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
+      "noun": [
+        {
+          "definition": "A sudden short sound caused by striking a hard surface.",
+          "example": "There was a loud knock at the door."
+        }
+      ],
       "verb": [
         {
-          "definition": "To strike a surface to attract attention",
-          "example": "Knock before entering."
+          "definition": "To strike a surface noisily to attract attention.",
+          "example": "She knocked on the window."
         }
       ]
-    }
+    },
+    "synonyms": ["tap", "bang", "strike"],
+    "antonyms": [],
+    "usage_examples": ["Don't knock it until you've tried it."]
   }
 }

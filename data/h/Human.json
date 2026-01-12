@@ -1,21 +1,24 @@
 {
   "human": {
     "word": "human",
-    "phonetic": "/ˈhjuːmən/",
-    "part_of_speech": ["noun", "adjective", "verb"],
+    "phonetic": "/ˈhjuː.mən/",
+    "part_of_speech": ["noun", "adjective"],
     "meanings": {
       "noun": [
         {
-          "definition": "A person",
-          "example": "Humans need food and water."
+          "definition": "A human being, especially a person as distinguished from an animal or (in science fiction) an alien.",
+          "example": "The species is part of the human family."
         }
       ],
-      "verb": [
+      "adjective": [
         {
-          "definition": "To make more humane",
-          "example": "The policy was humaned over time."
+          "definition": "Relating to or characteristic of humankind.",
+          "example": "The human body is amazing."
         }
       ]
-    }
+    },
+    "synonyms": ["person", "mortal", "individual"],
+    "antonyms": ["animal", "inhuman"],
+    "usage_examples": ["To err is human."]
   }
 }

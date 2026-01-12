@@ -1,11 +1,24 @@
 {
   "rabbit": {
     "word": "rabbit",
-    "phonetic": "/ˈræbɪt/",
+    "phonetic": "/ˈræb.ɪt/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
-      "noun": [{ "definition": "A small animal with long ears", "example": "A rabbit ran across the field." }],
-      "verb": [{ "definition": "To move quickly or chatter on", "example": "She rabbit-ed on about the topic." }]
-    }
+      "noun": [
+        {
+          "definition": "A burrowing, gregarious plant-eating mammal with long ears, long hind legs, and a short tail.",
+          "example": "A rabbit hopped across the grass."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To hunt rabbits.",
+          "example": "They went rabbitting in the fields."
+        }
+      ]
+    },
+    "synonyms": ["bunny", "hare"],
+    "antonyms": [],
+    "usage_examples": ["Breed like rabbits."]
   }
 }

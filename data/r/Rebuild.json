@@ -4,7 +4,15 @@
     "phonetic": "/ˌriːˈbɪld/",
     "part_of_speech": ["verb"],
     "meanings": {
-      "verb": [{ "definition": "To build again", "example": "They rebuilt the bridge." }]
-    }
+      "verb": [
+        {
+          "definition": "Build something again after it has been damaged or destroyed.",
+          "example": "They needed to rebuild their lives after the war."
+        }
+      ]
+    },
+    "synonyms": ["reconstruct", "restore", "renovate"],
+    "antonyms": ["destroy", "demolish"],
+    "usage_examples": ["Rebuild a broken relationship."]
   }
 }

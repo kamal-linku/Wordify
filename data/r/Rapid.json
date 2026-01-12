@@ -1,11 +1,24 @@
 {
   "rapid": {
     "word": "rapid",
-    "phonetic": "/ˈræpɪd/",
-    "part_of_speech": ["adjective", "verb"],
+    "phonetic": "/ˈræp.ɪd/",
+    "part_of_speech": ["adjective", "noun"],
     "meanings": {
-      "adjective": [{ "definition": "Very fast", "example": "Rapid growth occurred." }],
-      "verb": [{ "definition": "To speed up", "example": "Events rapidly progressed." }]
-    }
+      "adjective": [
+        {
+          "definition": "Happening in a short time or at a fast pace.",
+          "example": "The country is undergoing rapid economic growth."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "A fast-flowing and turbulent part of the course of a river.",
+          "example": "They navigated the white-water rapids."
+        }
+      ]
+    },
+    "synonyms": ["quick", "fast", "swift"],
+    "antonyms": ["slow", "leisurely"],
+    "usage_examples": ["Rapid eye movement."]
   }
 }

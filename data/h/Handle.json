@@ -6,16 +6,23 @@
     "meanings": {
       "noun": [
         {
-          "definition": "The part used to hold something",
-          "example": "Door handle."
+          "definition": "The part of an object designed to be held",
+          "example": "The door handle is broken."
         }
       ],
       "verb": [
         {
-          "definition": "To deal with or manage",
-          "example": "She handled the situation."
+          "definition": "To manage or deal with",
+          "example": "She handled the situation well."
         }
-      ]
-    }
+      ],
+      "adjective": []
+    },
+    "synonyms": ["manage", "grip"],
+    "antonyms": ["mismanage"],
+    "usage_examples": [
+      "Hold the handle firmly.",
+      "He can handle pressure."
+    ]
   }
 }

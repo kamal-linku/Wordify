@@ -1,15 +1,27 @@
 {
   "harvest": {
     "word": "harvest",
-    "phonetic": "/ˈhɑːvɪst/",
+    "phonetic": "/ˈhɑːrvɪst/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
+      "noun": [
+        {
+          "definition": "The process of gathering crops",
+          "example": "The harvest was plentiful."
+        }
+      ],
       "verb": [
         {
-          "definition": "To gather crops",
-          "example": "Farmers harvest rice."
+          "definition": "To gather or collect",
+          "example": "Farmers harvest wheat."
         }
-      ]
-    }
+      ],
+      "adjective": []
+    },
+    "synonyms": ["gather"],
+    "antonyms": [],
+    "usage_examples": [
+      "Harvest season begins."
+    ]
   }
 }

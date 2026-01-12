@@ -4,8 +4,21 @@
     "phonetic": "/rɪˈmɑːk/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
-      "noun": [{ "definition": "A comment", "example": "A kind remark." }],
-      "verb": [{ "definition": "To say or notice", "example": "He remarked on it." }]
-    }
+      "noun": [
+        {
+          "definition": "A written or spoken comment.",
+          "example": "The judge's remarks were very helpful."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "Say something as a comment; mention.",
+          "example": "She remarked on the beautiful weather."
+        }
+      ]
+    },
+    "synonyms": ["comment", "statement", "observation"],
+    "antonyms": [],
+    "usage_examples": ["A passing remark."]
   }
 }

@@ -1,21 +1,18 @@
 {
   "knowledge": {
     "word": "knowledge",
-    "phonetic": "/ˈnɒlɪdʒ/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈnɒl.ɪdʒ/",
+    "part_of_speech": ["noun"],
     "meanings": {
       "noun": [
         {
-          "definition": "Information or understanding gained through experience",
-          "example": "Knowledge is power."
-        }
-      ],
-      "verb": [
-        {
-          "definition": "To know or recognize",
-          "example": "She knowledged the facts."
+          "definition": "Facts, information, and skills acquired through experience or education.",
+          "example": "He has a broad knowledge of the subject."
         }
       ]
-    }
+    },
+    "synonyms": ["wisdom", "understanding", "lore"],
+    "antonyms": ["ignorance"],
+    "usage_examples": ["Knowledge is power."]
   }
 }

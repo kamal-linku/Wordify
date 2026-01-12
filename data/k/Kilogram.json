@@ -1,21 +1,18 @@
 {
   "kilogram": {
     "word": "kilogram",
-    "phonetic": "/ˈkɪləɡræm/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈkɪl.ə.ɡræm/",
+    "part_of_speech": ["noun"],
     "meanings": {
       "noun": [
         {
-          "definition": "A unit of mass equal to 1000 grams",
-          "example": "One kilogram of rice."
-        }
-      ],
-      "verb": [
-        {
-          "definition": "To measure in kilograms",
-          "example": "The goods were kilogrammed."
+          "definition": "The SI unit of mass, equal to 1,000 grams.",
+          "example": "The flour weighs exactly one kilogram."
         }
       ]
-    }
+    },
+    "synonyms": ["kilo"],
+    "antonyms": [],
+    "usage_examples": ["Apples are two dollars per kilogram."]
   }
 }

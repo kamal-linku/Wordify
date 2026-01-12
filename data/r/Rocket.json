@@ -1,11 +1,24 @@
 {
   "rocket": {
     "word": "rocket",
-    "phonetic": "/ˈrɒkɪt/",
+    "phonetic": "/ˈrɒk.ɪt/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
-      "noun": [{ "definition": "A spacecraft", "example": "The rocket launched." }],
-      "verb": [{ "definition": "To rise quickly", "example": "Prices rocketed." }]
-    }
+      "noun": [
+        {
+          "definition": "A cylindrical projectile that can be propelled to a great height or distance by the combustion of its contents.",
+          "example": "The rocket was launched into space."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "(of an amount, price, etc.) increase very rapidly and suddenly.",
+          "example": "Gas prices have rocketed recently."
+        }
+      ]
+    },
+    "synonyms": ["missile", "projectile", "skyrocket"],
+    "antonyms": ["plummet"],
+    "usage_examples": ["It's not rocket science."]
   }
 }

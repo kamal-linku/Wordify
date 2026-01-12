@@ -2,10 +2,23 @@
   "remote": {
     "word": "remote",
     "phonetic": "/rɪˈməʊt/",
-    "part_of_speech": ["adjective", "verb"],
+    "part_of_speech": ["adjective", "noun"],
     "meanings": {
-      "adjective": [{ "definition": "Far away", "example": "A remote village." }],
-      "verb": [{ "definition": "To operate from a distance", "example": "He remoted the system." }]
-    }
+      "adjective": [
+        {
+          "definition": "(of a place) situated far from the main centers of population; distant.",
+          "example": "They live in a remote mountain village."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "A remote control device.",
+          "example": "Where is the TV remote?"
+        }
+      ]
+    },
+    "synonyms": ["distant", "isolated", "faraway"],
+    "antonyms": ["near", "close"],
+    "usage_examples": ["A remote possibility."]
   }
 }

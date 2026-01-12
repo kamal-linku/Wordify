@@ -1,21 +1,18 @@
 {
   "kilometer": {
     "word": "kilometer",
-    "phonetic": "/kɪˈlɒmɪtə/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/kɪˈlɒm.ɪ.tər/",
+    "part_of_speech": ["noun"],
     "meanings": {
       "noun": [
         {
-          "definition": "A unit of distance equal to 1000 meters",
-          "example": "Five kilometers away."
-        }
-      ],
-      "verb": [
-        {
-          "definition": "To measure distance in kilometers",
-          "example": "The road was kilometered."
+          "definition": "A metric unit of measurement equal to 1,000 meters.",
+          "example": "The nearest town is five kilometers away."
         }
       ]
-    }
+    },
+    "synonyms": ["km"],
+    "antonyms": [],
+    "usage_examples": ["She runs ten kilometers every morning."]
   }
 }

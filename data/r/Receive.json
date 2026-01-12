@@ -4,7 +4,15 @@
     "phonetic": "/rɪˈsiːv/",
     "part_of_speech": ["verb"],
     "meanings": {
-      "verb": [{ "definition": "To get or accept", "example": "She received a gift." }]
-    }
+      "verb": [
+        {
+          "definition": "Be given, presented with, or paid (something).",
+          "example": "She received a letter from her friend."
+        }
+      ]
+    },
+    "synonyms": ["get", "accept", "acquire"],
+    "antonyms": ["give", "send"],
+    "usage_examples": ["To receive a warm welcome."]
   }
 }

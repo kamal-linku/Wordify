@@ -2,10 +2,21 @@
   "rich": {
     "word": "rich",
     "phonetic": "/rɪtʃ/",
-    "part_of_speech": ["adjective", "verb"],
+    "part_of_speech": ["adjective"],
     "meanings": {
-      "adjective": [{ "definition": "Having much wealth", "example": "A rich man." }],
-      "verb": [{ "definition": "To enrich", "example": "Soil richened crops." }]
-    }
+      "adjective": [
+        {
+          "definition": "Having a great deal of money or assets.",
+          "example": "She comes from a very rich family."
+        },
+        {
+          "definition": "Plentiful; abundant.",
+          "example": "The region is rich in natural resources."
+        }
+      ]
+    },
+    "synonyms": ["wealthy", "affluent", "abundant"],
+    "antonyms": ["poor", "scarce"],
+    "usage_examples": ["A rich history."]
   }
 }

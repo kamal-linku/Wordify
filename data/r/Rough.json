@@ -2,10 +2,29 @@
   "rough": {
     "word": "rough",
     "phonetic": "/rʌf/",
-    "part_of_speech": ["adjective", "verb"],
+    "part_of_speech": ["adjective", "noun", "verb"],
     "meanings": {
-      "adjective": [{ "definition": "Uneven or harsh", "example": "Rough road." }],
-      "verb": [{ "definition": "To make uneven", "example": "Rough the surface." }]
-    }
+      "adjective": [
+        {
+          "definition": "Having an uneven or irregular surface; not smooth.",
+          "example": "The road was very rough."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "A disreputable and violent man.",
+          "example": "He was attacked by a bunch of roughs."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "Handle someone or something in a violent or insensitive way.",
+          "example": "The police roughed up the suspect."
+        }
+      ]
+    },
+    "synonyms": ["uneven", "harsh", "approximate"],
+    "antonyms": ["smooth", "gentle"],
+    "usage_examples": ["A rough estimate."]
   }
 }

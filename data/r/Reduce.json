@@ -1,10 +1,18 @@
 {
   "reduce": {
     "word": "reduce",
-    "phonetic": "/rɪˈdjuːs/",
+    "phonetic": "/rɪˈdʒuːs/",
     "part_of_speech": ["verb"],
     "meanings": {
-      "verb": [{ "definition": "To make smaller", "example": "Reduce waste." }]
-    }
+      "verb": [
+        {
+          "definition": "Make smaller or less in amount, degree, or size.",
+          "example": "The company aims to reduce its carbon footprint."
+        }
+      ]
+    },
+    "synonyms": ["lessen", "decrease", "diminish"],
+    "antonyms": ["increase", "expand"],
+    "usage_examples": ["Reduce, reuse, recycle."]
   }
 }

@@ -4,7 +4,15 @@
     "phonetic": "/rəʊˈteɪt/",
     "part_of_speech": ["verb"],
     "meanings": {
-      "verb": [{ "definition": "To turn around an axis", "example": "Rotate the wheel." }]
-    }
+      "verb": [
+        {
+          "definition": "Move or cause to move in a circle around an axis or center.",
+          "example": "The earth rotates once every 24 hours."
+        }
+      ]
+    },
+    "synonyms": ["revolve", "spin", "turn"],
+    "antonyms": [],
+    "usage_examples": ["Rotate the tires."]
   }
 }

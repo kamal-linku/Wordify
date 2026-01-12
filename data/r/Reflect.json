@@ -5,9 +5,18 @@
     "part_of_speech": ["verb"],
     "meanings": {
       "verb": [
-        { "definition": "To throw back light", "example": "The mirror reflected light." },
-        { "definition": "To think deeply", "example": "He reflected on life." }
+        {
+          "definition": "(of a surface) throw back light, heat, or sound without absorbing it.",
+          "example": "The snow reflected the bright sunlight."
+        },
+        {
+          "definition": "Think deeply or carefully about.",
+          "example": "He paused to reflect on his next move."
+        }
       ]
-    }
+    },
+    "synonyms": ["mirror", "ponder", "consider"],
+    "antonyms": ["absorb"],
+    "usage_examples": ["Reflect on one's past."]
   }
 }

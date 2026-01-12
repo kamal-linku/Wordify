@@ -1,21 +1,18 @@
 {
   "kettle": {
     "word": "kettle",
-    "phonetic": "/ˈketl/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈket.əl/",
+    "part_of_speech": ["noun"],
     "meanings": {
       "noun": [
         {
-          "definition": "A container for boiling water",
-          "example": "The kettle is boiling."
-        }
-      ],
-      "verb": [
-        {
-          "definition": "To boil or heat in a kettle",
-          "example": "She kettled the water."
+          "definition": "A container or device in which water is boiled, having a lid, spout, and handle.",
+          "example": "I'll put the kettle on for some tea."
         }
       ]
-    }
+    },
+    "synonyms": ["pot", "vessel"],
+    "antonyms": [],
+    "usage_examples": ["The kettle began to whistle."]
   }
 }

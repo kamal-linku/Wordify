@@ -1,15 +1,22 @@
 {
   "helmet": {
     "word": "helmet",
-    "phonetic": "/ˈhelmɪt/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈhɛlmɪt/",
+    "part_of_speech": ["noun"],
     "meanings": {
-      "verb": [
+      "noun": [
         {
-          "definition": "To protect with a helmet",
-          "example": "He helmeted himself."
+          "definition": "Protective headgear",
+          "example": "Wear a helmet while riding."
         }
-      ]
-    }
+      ],
+      "verb": [],
+      "adjective": []
+    },
+    "synonyms": ["headgear"],
+    "antonyms": [],
+    "usage_examples": [
+      "The helmet saved his life."
+    ]
   }
 }

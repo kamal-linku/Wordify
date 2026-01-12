@@ -6,16 +6,19 @@
     "meanings": {
       "noun": [
         {
-          "definition": "A joint between thigh and leg",
-          "example": "He hurt his knee."
+          "definition": "The joint between the thigh and the lower leg in humans.",
+          "example": "She grazed her knee on the pavement."
         }
       ],
       "verb": [
         {
-          "definition": "To strike or support with the knee",
-          "example": "He kneed the ball."
+          "definition": "To strike someone with the knee.",
+          "example": "He was kneed in the stomach during the match."
         }
       ]
-    }
+    },
+    "synonyms": ["joint"],
+    "antonyms": [],
+    "usage_examples": ["Bring the baby onto your knee."]
   }
 }

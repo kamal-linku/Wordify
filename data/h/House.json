@@ -6,16 +6,19 @@
     "meanings": {
       "noun": [
         {
-          "definition": "A building for people to live in",
-          "example": "They bought a new house."
+          "definition": "A building for human habitation, especially one that is lived in by a family or small group of people.",
+          "example": "They moved into a new house."
         }
       ],
       "verb": [
         {
-          "definition": "To provide shelter or accommodation",
-          "example": "The hostel houses students."
+          "definition": "To provide a person or animal with shelter or living quarters.",
+          "example": "The museum houses a collection of Roman coins."
         }
       ]
-    }
+    },
+    "synonyms": ["home", "residence", "dwelling"],
+    "antonyms": [],
+    "usage_examples": ["A full house."]
   }
 }

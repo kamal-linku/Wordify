@@ -1,27 +1,18 @@
 {
   "hypothesis": {
     "word": "hypothesis",
-    "phonetic": "/haɪˈpɒθəsɪs/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/haɪˈpɒθ.ə.sɪs/",
+    "part_of_speech": ["noun"],
     "meanings": {
       "noun": [
         {
-          "definition": "A proposed explanation made on the basis of limited evidence",
-          "example": "The scientist tested the hypothesis."
-        }
-      ],
-      "verb": [
-        {
-          "definition": "To propose or assume as a hypothesis",
-          "example": "Researchers hypothesised a new theory."
+          "definition": "A proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+          "example": "His hypothesis was proved correct by the experiment."
         }
       ]
     },
-    "synonyms": ["theory", "assumption"],
-    "antonyms": ["fact", "certainty"],
-    "usage_examples": [
-      "The hypothesis was later proven wrong.",
-      "They hypothesised a link between the variables."
-    ]
+    "synonyms": ["theory", "thesis", "supposition"],
+    "antonyms": ["fact", "proof"],
+    "usage_examples": ["Test the hypothesis."]
   }
 }

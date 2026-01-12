@@ -1,11 +1,18 @@
 {
   "runner": {
     "word": "runner",
-    "phonetic": "/ˈrʌnə/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈrʌn.ər/",
+    "part_of_speech": ["noun"],
     "meanings": {
-      "noun": [{ "definition": "One who runs", "example": "A fast runner." }],
-      "verb": [{ "definition": "To run repeatedly", "example": "He runnered errands." }]
-    }
+      "noun": [
+        {
+          "definition": "A person or animal that runs, especially in a race.",
+          "example": "She is a marathon runner."
+        }
+      ]
+    },
+    "synonyms": ["sprinter", "jogger"],
+    "antonyms": [],
+    "usage_examples": ["Front runner."]
   }
 }

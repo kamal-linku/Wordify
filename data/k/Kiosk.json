@@ -1,15 +1,18 @@
 {
   "kiosk": {
     "word": "kiosk",
-    "phonetic": "/ˈkiːɒsk/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈkiː.ɒsk/",
+    "part_of_speech": ["noun"],
     "meanings": {
-      "verb": [
+      "noun": [
         {
-          "definition": "To sell from a kiosk",
-          "example": "They kiosked newspapers."
+          "definition": "A small open-fronted hut or cubicle from which newspapers, refreshments, or tickets are sold.",
+          "example": "I bought a magazine at the newspaper kiosk."
         }
       ]
-    }
+    },
+    "synonyms": ["booth", "stall", "stand"],
+    "antonyms": [],
+    "usage_examples": ["You can pay for parking at the automated kiosk."]
   }
 }

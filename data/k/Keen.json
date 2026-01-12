@@ -4,12 +4,25 @@
     "phonetic": "/kiːn/",
     "part_of_speech": ["adjective", "verb"],
     "meanings": {
+      "adjective": [
+        {
+          "definition": "Having or showing eagerness or enthusiasm.",
+          "example": "He is a keen golfer."
+        },
+        {
+          "definition": "Highly developed or sharp.",
+          "example": "Dogs have a keen sense of smell."
+        }
+      ],
       "verb": [
         {
-          "definition": "To long or yearn for",
-          "example": "She keens for success."
+          "definition": "To wail in grief for a dead person.",
+          "example": "The mourners began to keen."
         }
       ]
-    }
+    },
+    "synonyms": ["eager", "sharp", "acute"],
+    "antonyms": ["indifferent", "dull", "apathetic"],
+    "usage_examples": ["She has a keen eye for detail."]
   }
 }

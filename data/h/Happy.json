@@ -4,18 +4,19 @@
     "phonetic": "/ˈhæpi/",
     "part_of_speech": ["adjective", "verb"],
     "meanings": {
-      "adjective": [
+      "noun": [
         {
-          "definition": "Feeling or showing pleasure or contentment",
-          "example": "She feels happy today."
+          "definition": "The state of being happy",
+          "example": "True happiness comes from within."
         }
       ],
-      "verb": [
-        {
-          "definition": "To make someone feel happy",
-          "example": "Good news happyed the crowd."
-        }
-      ]
-    }
+      "verb": [],
+      "adjective": []
+    },
+    "synonyms": ["joy", "contentment"],
+    "antonyms": ["sadness"],
+    "usage_examples": [
+      "Happiness is important for health."
+    ]
   }
 }

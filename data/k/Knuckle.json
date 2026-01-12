@@ -1,15 +1,24 @@
 {
   "knuckle": {
     "word": "knuckle",
-    "phonetic": "/ˈnʌkəl/",
+    "phonetic": "/ˈnʌk.əl/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
+      "noun": [
+        {
+          "definition": "A part of a finger at a joint where the bone is near the surface.",
+          "example": "He cracked his knuckles."
+        }
+      ],
       "verb": [
         {
-          "definition": "To strike with the knuckles",
-          "example": "He knuckled the door."
+          "definition": "To rub or press with the knuckles.",
+          "example": "She knuckled her eyes as she woke up."
         }
       ]
-    }
+    },
+    "synonyms": ["joint"],
+    "antonyms": [],
+    "usage_examples": ["We need to knuckle down to work."]
   }
 }

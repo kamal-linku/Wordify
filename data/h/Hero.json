@@ -1,21 +1,18 @@
 {
   "hero": {
     "word": "hero",
-    "phonetic": "/ˈhɪərəʊ/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈhɪə.rəʊ/",
+    "part_of_speech": ["noun"],
     "meanings": {
       "noun": [
         {
-          "definition": "A person admired for bravery",
-          "example": "He is a hero."
-        }
-      ],
-      "verb": [
-        {
-          "definition": "To treat as a hero",
-          "example": "The crowd heroed him."
+          "definition": "A person who is admired or idealized for courage, outstanding achievements, or noble qualities.",
+          "example": "He was a war hero."
         }
       ]
-    }
+    },
+    "synonyms": ["idol", "champion", "protagonist"],
+    "antonyms": ["villain", "coward"],
+    "usage_examples": ["She is my local hero."]
   }
 }

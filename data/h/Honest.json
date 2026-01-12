@@ -1,21 +1,18 @@
 {
   "honest": {
     "word": "honest",
-    "phonetic": "/ˈɒnɪst/",
-    "part_of_speech": ["adjective", "verb"],
+    "phonetic": "/ˈɒn.ɪst/",
+    "part_of_speech": ["adjective"],
     "meanings": {
       "adjective": [
         {
-          "definition": "Truthful and sincere",
-          "example": "She is an honest person."
-        }
-      ],
-      "verb": [
-        {
-          "definition": "To speak truthfully",
-          "example": "He honested about his mistake."
+          "definition": "Free of deceit and untruthfulness; sincere.",
+          "example": "I need an honest answer."
         }
       ]
-    }
+    },
+    "synonyms": ["truthful", "sincere", "frank"],
+    "antonyms": ["dishonest", "deceitful"],
+    "usage_examples": ["To be honest, I'm quite tired."]
   }
 }

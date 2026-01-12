@@ -1,11 +1,24 @@
 {
   "reason": {
     "word": "reason",
-    "phonetic": "/ˈriːzn/",
+    "phonetic": "/ˈriː.zən/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
-      "noun": [{ "definition": "A cause or explanation", "example": "There is a reason." }],
-      "verb": [{ "definition": "To think logically", "example": "She reasoned carefully." }]
-    }
+      "noun": [
+        {
+          "definition": "A cause, explanation, or justification for an action or event.",
+          "example": "She asked for the reason for the delay."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "Think, understand, and form judgments by a process of logic.",
+          "example": "He reasoned that if the front door was locked, she must be out."
+        }
+      ]
+    },
+    "synonyms": ["cause", "logic", "motive"],
+    "antonyms": [],
+    "usage_examples": ["Listen to reason."]
   }
 }

@@ -1,15 +1,18 @@
 {
   "kaleidoscope": {
     "word": "kaleidoscope",
-    "phonetic": "/kəˈlaɪdəskəʊp/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/kəˈlaɪ.də.skəʊp/",
+    "part_of_speech": ["noun"],
     "meanings": {
-      "verb": [
+      "noun": [
         {
-          "definition": "To change rapidly in pattern",
-          "example": "The scene kaleidoscoped."
+          "definition": "A tube containing mirrors and pieces of colored glass whose reflections produce changing patterns when the tube is rotated.",
+          "example": "As a child, I spent hours looking through my kaleidoscope."
         }
       ]
-    }
+    },
+    "synonyms": ["multiplicity", "spectrum", "variegation"],
+    "antonyms": [],
+    "usage_examples": ["The city was a kaleidoscope of color and sound."]
   }
 }

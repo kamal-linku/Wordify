@@ -4,12 +4,21 @@
     "phonetic": "/kɪk/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
+      "noun": [
+        {
+          "definition": "A blow or forceful thrust with the foot.",
+          "example": "He gave the door a hard kick."
+        }
+      ],
       "verb": [
         {
-          "definition": "To strike with the foot",
-          "example": "Kick the ball."
+          "definition": "To strike or propel forcibly with the foot.",
+          "example": "The boy kicked the ball into the net."
         }
       ]
-    }
+    },
+    "synonyms": ["boot", "strike", "punt"],
+    "antonyms": [],
+    "usage_examples": ["She kicked the habit of smoking."]
   }
 }

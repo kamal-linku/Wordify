@@ -2,20 +2,20 @@
   "hollow": {
     "word": "hollow",
     "phonetic": "/ˈhɒləʊ/",
-    "part_of_speech": ["adjective", "verb"],
+    "part_of_speech": ["adjective", "noun", "verb"],
     "meanings": {
-      "adjective": [
-        {
-          "definition": "Having empty space inside",
-          "example": "A hollow tree."
-        }
+      "noun": [
+        { "definition": "An empty space", "example": "A hollow in the tree." }
       ],
       "verb": [
-        {
-          "definition": "To make hollow",
-          "example": "Water hollowed the rock."
-        }
+        { "definition": "To make empty", "example": "The river hollowed the rock." }
+      ],
+      "adjective": [
+        { "definition": "Having empty space inside", "example": "A hollow log." }
       ]
-    }
+    },
+    "synonyms": ["empty"],
+    "antonyms": ["solid"],
+    "usage_examples": ["His words felt hollow."]
   }
 }

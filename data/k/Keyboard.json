@@ -1,21 +1,24 @@
 {
   "keyboard": {
     "word": "keyboard",
-    "phonetic": "/ˈkiːbɔːd/",
+    "phonetic": "/ˈkiː.bɔːd/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
       "noun": [
         {
-          "definition": "A device with keys for typing",
-          "example": "The keyboard is wireless."
+          "definition": "A panel of keys used for operating a computer or typewriter.",
+          "example": "He typed quickly on his mechanical keyboard."
         }
       ],
       "verb": [
         {
-          "definition": "To enter data using a keyboard",
-          "example": "She keyboarded the report."
+          "definition": "To enter data into a computer using a keyboard.",
+          "example": "She spent the afternoon keyboarding the data."
         }
       ]
-    }
+    },
+    "synonyms": ["keypad", "clavier"],
+    "antonyms": [],
+    "usage_examples": ["The musician played a electronic keyboard."]
   }
 }

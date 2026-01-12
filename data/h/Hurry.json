@@ -1,21 +1,24 @@
 {
   "hurry": {
     "word": "hurry",
-    "phonetic": "/ˈhʌri/",
+    "phonetic": "/ˈhʌr.i/",
     "part_of_speech": ["noun", "verb"],
     "meanings": {
       "noun": [
         {
-          "definition": "Great haste",
-          "example": "There is no hurry."
+          "definition": "A state of urgency or eagerness.",
+          "example": "In all the hurry, I forgot my keys."
         }
       ],
       "verb": [
         {
-          "definition": "To move quickly",
-          "example": "Hurry up!"
+          "definition": "To move or act with great haste.",
+          "example": "Hurry up or we'll be late."
         }
       ]
-    }
+    },
+    "synonyms": ["rush", "haste", "speed"],
+    "antonyms": ["delay", "crawl"],
+    "usage_examples": ["There's no hurry."]
   }
 }

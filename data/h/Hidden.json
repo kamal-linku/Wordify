@@ -2,14 +2,16 @@
   "hidden": {
     "word": "hidden",
     "phonetic": "/ˈhɪdn/",
-    "part_of_speech": ["adjective", "verb"],
+    "part_of_speech": ["adjective"],
     "meanings": {
-      "verb": [
-        {
-          "definition": "Past form of hide",
-          "example": "The treasure was hidden."
-        }
+      "noun": [],
+      "verb": [],
+      "adjective": [
+        { "definition": "Kept out of sight", "example": "The key was hidden." }
       ]
-    }
+    },
+    "synonyms": ["concealed"],
+    "antonyms": ["visible"],
+    "usage_examples": ["Hidden talents exist."]
   }
 }

@@ -1,11 +1,18 @@
 {
   "rainbow": {
     "word": "rainbow",
-    "phonetic": "/ˈreɪnbəʊ/",
-    "part_of_speech": ["noun", "verb"],
+    "phonetic": "/ˈreɪn.bəʊ/",
+    "part_of_speech": ["noun"],
     "meanings": {
-      "noun": [{ "definition": "An arc of colors seen after rain", "example": "A rainbow appeared." }],
-      "verb": [{ "definition": "To form or color like a rainbow", "example": "Oil rainbowed on water." }]
-    }
+      "noun": [
+        {
+          "definition": "An arch of colors visible in the sky, caused by the refraction and dispersion of the sun's light by rain.",
+          "example": "A beautiful rainbow appeared after the storm."
+        }
+      ]
+    },
+    "synonyms": ["spectrum", "arc"],
+    "antonyms": [],
+    "usage_examples": ["Chasing rainbows."]
   }
 }
