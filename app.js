@@ -23,10 +23,13 @@ function searchWord() {
 
   // Find the word in index.json
   let foundLetter = null;
+  let targetWord = null;
 
   for (let letter in dictionaryIndex) {
-    if (dictionaryIndex[letter].includes(input)) {
+    const match = dictionaryIndex[letter].find(w => w.toLowerCase() === input);
+    if (match) {
       foundLetter = letter.toLowerCase();
+      targetWord = match;
       break;
     }
   }
@@ -37,16 +40,36 @@ function searchWord() {
   }
 
   // Load the word JSON file
-  const wordPath = `./data/${foundLetter}/${input}.json`;
+  const wordPath = `./data/${foundLetter}/${targetWord}.json`;
 
   fetch(wordPath)
     .then(response => {
       if (!response.ok) {
+<<<<<<< HEAD
+=======
+        // Fallback: Try Capitalized filename if lowercase fails (e.g. happy -> Happy.json)
+        const capitalized = targetWord.charAt(0).toUpperCase() + targetWord.slice(1);
+        if (capitalized !== targetWord) {
+          return fetch(`./data/${foundLetter}/${capitalized}.json`).then(res => {
+            if (!res.ok) throw new Error("File not found");
+            return res.json();
+          });
+        }
+>>>>>>> f839feb717a0474f4f19c460803b69d114509a3c
         throw new Error("File not found");
       }
       return response.json();
     })
     .then(data => {
+<<<<<<< HEAD
+=======
+      // Check if data is directly the word object (unwrapped)
+      if (data.word || data.meanings) {
+        displayWord(data);
+        return;
+      }
+
+>>>>>>> f839feb717a0474f4f19c460803b69d114509a3c
       // Handle case sensitivity: input is lowercase, but JSON key might be capitalized
       const key = Object.keys(data).find(k => k.toLowerCase() === input);
       if (key) {
@@ -57,7 +80,7 @@ function searchWord() {
     })
     .catch(error => {
       console.error(error);
-      resultDiv.innerHTML = "❌ Meaning file not found";
+      resultDiv.innerHTML = `❌ ${error.message}`;
     });
 }
 
@@ -66,19 +89,21 @@ function displayWord(wordData) {
   const resultDiv = document.getElementById("result");
 
   let html = `
-    <h2>${wordData.word}</h2>
-    <p><strong>Phonetic:</strong> ${wordData.phonetic}</p>
-    <p><strong>Part of Speech:</strong> ${wordData.part_of_speech.join(", ")}</p>
+    <h2>${wordData.word || "Unknown"}</h2>
+    <p><strong>Phonetic:</strong> ${wordData.phonetic || ""}</p>
+    <p><strong>Part of Speech:</strong> ${wordData.part_of_speech ? wordData.part_of_speech.join(", ") : ""}</p>
   `;
 
-  for (let pos in wordData.meanings) {
-    html += `<h3>${pos.toUpperCase()}</h3>`;
-    wordData.meanings[pos].forEach(item => {
-      html += `
-        <p>• ${item.definition}<br>
-        <em>${item.example}</em></p>
-      `;
-    });
+  if (wordData.meanings) {
+    for (let pos in wordData.meanings) {
+      html += `<h3>${pos.toUpperCase()}</h3>`;
+      wordData.meanings[pos].forEach(item => {
+        html += `
+          <p>• ${item.definition}<br>
+          <em>${item.example || ""}</em></p>
+        `;
+      });
+    }
   }
 
   if (wordData.synonyms) {
