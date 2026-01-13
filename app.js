@@ -45,31 +45,11 @@ function searchWord() {
   fetch(wordPath)
     .then(response => {
       if (!response.ok) {
-<<<<<<< HEAD
-=======
-        // Fallback: Try Capitalized filename if lowercase fails (e.g. happy -> Happy.json)
-        const capitalized = targetWord.charAt(0).toUpperCase() + targetWord.slice(1);
-        if (capitalized !== targetWord) {
-          return fetch(`./data/${foundLetter}/${capitalized}.json`).then(res => {
-            if (!res.ok) throw new Error("File not found");
-            return res.json();
-          });
-        }
->>>>>>> f839feb717a0474f4f19c460803b69d114509a3c
         throw new Error("File not found");
       }
       return response.json();
     })
     .then(data => {
-<<<<<<< HEAD
-=======
-      // Check if data is directly the word object (unwrapped)
-      if (data.word || data.meanings) {
-        displayWord(data);
-        return;
-      }
-
->>>>>>> f839feb717a0474f4f19c460803b69d114509a3c
       // Handle case sensitivity: input is lowercase, but JSON key might be capitalized
       const key = Object.keys(data).find(k => k.toLowerCase() === input);
       if (key) {
